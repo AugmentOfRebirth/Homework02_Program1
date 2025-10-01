@@ -1,3 +1,9 @@
+//===================================================================
+//Name:Nicholas Voigt
+//Date:09/30/25
+//Desc:Homework02 for Mobile App Development, RGB color slider
+//===================================================================
+
 package com.example.homework02_program1;
 
 import android.os.Bundle;
